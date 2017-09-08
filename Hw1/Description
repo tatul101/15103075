@@ -5,3 +5,6 @@ b) Write a Java program for sorting a given list of names in ascending order.
 3.	Write a java program to create an abstract class named Shape that contains an empty method named number Of Sides ( ).
 Provide three classes named Trapezoid, Triangle and Hexagon such that each one of the classes extends the class Shape. 
 Each one of the classes contains only the method number Of Sides ( ) that shows the number of sides in the given geometrical figures.
+
+
+All assignments must be submitted before deadline. Plagiarism is strictly prohibited.
