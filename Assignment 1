@@ -1,0 +1,11 @@
+1.	a) Write a Java program that prompts the user for an integer and then prints out all prime numbers up to that integer.
+b) Write a Java program to multiply two given matrices.
+
+2.	a) Write a Java program that checks whether a given string is a palindrome or not. Ex: MADAM is a palindrome.
+b) Write a Java program for sorting a given list of names in ascending order.
+
+3.3.	Write a java program to create an abstract class named Shape that contains an empty method named number Of Sides ( ).
+Provide three classes named Trapezoid, Triangle and Hexagon such that each one of the classes extends the class Shape. 
+Each one of the classes contains only the method number Of Sides ( ) that shows the number of sides in the given geometrical figures.
+
+All the assignments must be submitted before the deadline through your github classroom private repository . Plagiarism is strictly prohibited. 
